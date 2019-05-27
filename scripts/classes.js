@@ -40,4 +40,3 @@ class UsedCar extends Car {
 used_car = new UsedCar(name='Ford', transmission='Manual', milleage=60000, sale_price=3320.50);
 console.log(used_car);
 console.log(used_car.isOld());
-console.log(used_car.prototype.getTransmission());
