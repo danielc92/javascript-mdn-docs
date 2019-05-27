@@ -28,6 +28,16 @@ Going through some of the Javascript MDN documentation
 - Arrow functions
 - Mapping functions
 
+### Built in objects: Arrays
+- Defining an array
+- Iterating through an array
+- Accessing item by index
+- Finding index by item
+- Joining array into a string using `toString()`
+- Modifying start of an array using `shift` and `unshift`
+- Modifying end of an array using `pop` and `push`
+- Taking shallow copy of array using `slice()`
+
 # Contributors
 - Daniel Corcoran
 
