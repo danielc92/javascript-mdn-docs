@@ -41,5 +41,17 @@ Going through some of the Javascript MDN documentation
 # Contributors
 - Daniel Corcoran
 
+# Tree
+```sh
+├── index.html
+├── README.md
+└── scripts
+    ├── builtinobjects-arrays.js
+    ├── control-flow-and-error-handling.js
+    ├── functions.js
+    ├── grammar-and-types.js
+    └── loops-and-iteration.js
+```
+
 # Sources
 - [Mozilla Javascript Documentation Page](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
