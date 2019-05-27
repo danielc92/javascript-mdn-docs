@@ -38,6 +38,16 @@ Going through some examples from the Mozilla Javascript documentation pages
 - Modifying end of an array using `pop` and `push`
 - Taking shallow copy of array using `slice()`
 
+### Builts in objects: Classes
+- Defining a class
+- Defining a constructor
+- Extending a class
+- Adding class functions
+- Calling class functions
+- Instantiating instances of classes
+- Retrieving class properties
+
+
 # Contributors
 - Daniel Corcoran
 
