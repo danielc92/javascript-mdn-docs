@@ -47,6 +47,12 @@ Going through some examples from the Mozilla Javascript documentation pages
 - Instantiating instances of classes
 - Retrieving class properties
 
+### Web API and events
+- Avoiding usage of `inline` event handlers, as it is bad practice and difficult to manage at scale
+- Adding event listeners
+- Applying events to elements (hover, click etc)
+- Changing the attributes or content of an element from an event triggered function
+- Applying event functions iteratively using `querySelectorAll`
 
 # Contributors
 - Daniel Corcoran
@@ -57,10 +63,14 @@ Going through some examples from the Mozilla Javascript documentation pages
 ├── README.md
 └── scripts
     ├── builtinobjects-arrays.js
+    ├── classes.js
     ├── control-flow-and-error-handling.js
     ├── functions.js
     ├── grammar-and-types.js
-    └── loops-and-iteration.js
+    ├── introduction-to-events.js
+    ├── loops-and-iteration.js
+    └── web-api-introduction.js
+
 ```
 
 # Sources
