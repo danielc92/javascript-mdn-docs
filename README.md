@@ -1,5 +1,5 @@
 # Javascript MDN Docs
-Going through some of the Javascript MDN documentation
+Going through some examples from the Mozilla Javascript documentation pages
 
 ### Grammar and types
 - Declarations
